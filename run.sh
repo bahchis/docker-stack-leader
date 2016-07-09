@@ -1,8 +1,6 @@
-#!/bin/bash
+#!/bin/sh
 
 . ./func.sh
-
-export -f stackLeader
 
 while true
 do
